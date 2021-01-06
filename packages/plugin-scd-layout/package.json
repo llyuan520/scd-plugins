@@ -1,0 +1,31 @@
+{
+  "name": "@umijs/plugin-scd-layout",
+  "version": "1.0.0",
+  "description": "@umijs/plugin-scd-layout",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "src"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/umijs/plugins"
+  },
+  "keywords": [
+    "umi"
+  ],
+  "authors": [
+    "liuliyuan"
+  ],
+  "license": "MIT",
+  "peerDependencies": {
+    "umi": "3.x"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "antd": "^4.10.0"
+  }
+}
